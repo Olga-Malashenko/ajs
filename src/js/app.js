@@ -1,1 +1,1 @@
-console.log('App workd');
+console.log('App worked');
