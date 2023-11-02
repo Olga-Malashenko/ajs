@@ -1,6 +1,3 @@
-import './css/style.css';
-import './js/app.js';
-
 function info() {
     const m = new Map();
     m.set('name', 'ajs');
